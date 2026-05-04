@@ -1,0 +1,329 @@
+season,round,raceName,circuitName,locality,country,date,time,url
+1950,1,British Grand Prix,Silverstone Circuit,Silverstone,UK,1950-05-13,,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
+1950,2,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1950-05-21,,http://en.wikipedia.org/wiki/1950_Monaco_Grand_Prix
+1950,3,Indianapolis 500,Indianapolis Motor Speedway,Indianapolis,USA,1950-05-30,,http://en.wikipedia.org/wiki/1950_Indianapolis_500
+1950,4,Swiss Grand Prix,Circuit Bremgarten,Bern,Switzerland,1950-06-04,,http://en.wikipedia.org/wiki/1950_Swiss_Grand_Prix
+1950,5,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1950-06-18,,http://en.wikipedia.org/wiki/1950_Belgian_Grand_Prix
+1950,6,French Grand Prix,Reims-Gueux,Reims,France,1950-07-02,,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
+1950,7,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1950-09-03,,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
+1951,1,Swiss Grand Prix,Circuit Bremgarten,Bern,Switzerland,1951-05-27,,http://en.wikipedia.org/wiki/1951_Swiss_Grand_Prix
+1951,2,Indianapolis 500,Indianapolis Motor Speedway,Indianapolis,USA,1951-05-30,,http://en.wikipedia.org/wiki/1951_Indianapolis_500
+1951,3,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1951-06-17,,http://en.wikipedia.org/wiki/1951_Belgian_Grand_Prix
+1951,4,French Grand Prix,Reims-Gueux,Reims,France,1951-07-01,,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
+1951,5,British Grand Prix,Silverstone Circuit,Silverstone,UK,1951-07-14,,http://en.wikipedia.org/wiki/1951_British_Grand_Prix
+1951,6,German Grand Prix,Nürburgring,Nürburg,Germany,1951-07-29,,http://en.wikipedia.org/wiki/1951_German_Grand_Prix
+1951,7,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1951-09-16,,http://en.wikipedia.org/wiki/1951_Italian_Grand_Prix
+1951,8,Spanish Grand Prix,Circuit de Pedralbes,Barcelona,Spain,1951-10-28,,http://en.wikipedia.org/wiki/1951_Spanish_Grand_Prix
+1952,1,Swiss Grand Prix,Circuit Bremgarten,Bern,Switzerland,1952-05-18,,http://en.wikipedia.org/wiki/1952_Swiss_Grand_Prix
+1952,2,Indianapolis 500,Indianapolis Motor Speedway,Indianapolis,USA,1952-05-30,,http://en.wikipedia.org/wiki/1952_Indianapolis_500
+1952,3,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1952-06-22,,http://en.wikipedia.org/wiki/1952_Belgian_Grand_Prix
+1952,4,French Grand Prix,Rouen-Les-Essarts,Rouen,France,1952-07-06,,http://en.wikipedia.org/wiki/1952_French_Grand_Prix
+1952,5,British Grand Prix,Silverstone Circuit,Silverstone,UK,1952-07-19,,http://en.wikipedia.org/wiki/1952_British_Grand_Prix
+1952,6,German Grand Prix,Nürburgring,Nürburg,Germany,1952-08-03,,http://en.wikipedia.org/wiki/1952_German_Grand_Prix
+1952,7,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1952-08-17,,http://en.wikipedia.org/wiki/1952_Dutch_Grand_Prix
+1952,8,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1952-09-07,,http://en.wikipedia.org/wiki/1952_Italian_Grand_Prix
+1953,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1953-01-18,,http://en.wikipedia.org/wiki/1953_Argentine_Grand_Prix
+1953,2,Indianapolis 500,Indianapolis Motor Speedway,Indianapolis,USA,1953-05-30,,http://en.wikipedia.org/wiki/1953_Indianapolis_500
+1953,3,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1953-06-07,,http://en.wikipedia.org/wiki/1953_Dutch_Grand_Prix
+1953,4,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1953-06-21,,http://en.wikipedia.org/wiki/1953_Belgian_Grand_Prix
+1953,5,French Grand Prix,Reims-Gueux,Reims,France,1953-07-05,,http://en.wikipedia.org/wiki/1953_French_Grand_Prix
+1953,6,British Grand Prix,Silverstone Circuit,Silverstone,UK,1953-07-18,,http://en.wikipedia.org/wiki/1953_British_Grand_Prix
+1953,7,German Grand Prix,Nürburgring,Nürburg,Germany,1953-08-02,,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
+1953,8,Swiss Grand Prix,Circuit Bremgarten,Bern,Switzerland,1953-08-23,,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
+1953,9,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1953-09-13,,http://en.wikipedia.org/wiki/1953_Italian_Grand_Prix
+1954,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1954-01-17,,http://en.wikipedia.org/wiki/1954_Argentine_Grand_Prix
+1954,2,Indianapolis 500,Indianapolis Motor Speedway,Indianapolis,USA,1954-05-31,,http://en.wikipedia.org/wiki/1954_Indianapolis_500
+1954,3,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1954-06-20,,http://en.wikipedia.org/wiki/1954_Belgian_Grand_Prix
+1954,4,French Grand Prix,Reims-Gueux,Reims,France,1954-07-04,,http://en.wikipedia.org/wiki/1954_French_Grand_Prix
+1954,5,British Grand Prix,Silverstone Circuit,Silverstone,UK,1954-07-17,,http://en.wikipedia.org/wiki/1954_British_Grand_Prix
+1954,6,German Grand Prix,Nürburgring,Nürburg,Germany,1954-08-01,,http://en.wikipedia.org/wiki/1954_German_Grand_Prix
+1954,7,Swiss Grand Prix,Circuit Bremgarten,Bern,Switzerland,1954-08-22,,http://en.wikipedia.org/wiki/1954_Swiss_Grand_Prix
+1954,8,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1954-09-05,,http://en.wikipedia.org/wiki/1954_Italian_Grand_Prix
+1954,9,Spanish Grand Prix,Circuit de Pedralbes,Barcelona,Spain,1954-10-24,,http://en.wikipedia.org/wiki/1954_Spanish_Grand_Prix
+1955,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1955-01-16,,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
+1955,2,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1955-05-22,,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
+1955,3,Indianapolis 500,Indianapolis Motor Speedway,Indianapolis,USA,1955-05-30,,http://en.wikipedia.org/wiki/1955_Indianapolis_500
+1955,4,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1955-06-05,,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
+1955,5,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1955-06-19,,http://en.wikipedia.org/wiki/1955_Dutch_Grand_Prix
+1955,6,British Grand Prix,Aintree,Liverpool,UK,1955-07-16,,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
+1955,7,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1955-09-11,,http://en.wikipedia.org/wiki/1955_Italian_Grand_Prix
+1956,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1956-01-22,,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
+1956,2,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1956-05-13,,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
+1956,3,Indianapolis 500,Indianapolis Motor Speedway,Indianapolis,USA,1956-05-30,,http://en.wikipedia.org/wiki/1956_Indianapolis_500
+1956,4,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1956-06-03,,http://en.wikipedia.org/wiki/1956_Belgian_Grand_Prix
+1956,5,French Grand Prix,Reims-Gueux,Reims,France,1956-07-01,,http://en.wikipedia.org/wiki/1956_French_Grand_Prix
+1956,6,British Grand Prix,Silverstone Circuit,Silverstone,UK,1956-07-14,,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
+1956,7,German Grand Prix,Nürburgring,Nürburg,Germany,1956-08-05,,http://en.wikipedia.org/wiki/1956_German_Grand_Prix
+1956,8,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1956-09-02,,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
+1957,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1957-01-13,,http://en.wikipedia.org/wiki/1957_Argentine_Grand_Prix
+1957,2,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1957-05-19,,http://en.wikipedia.org/wiki/1957_Monaco_Grand_Prix
+1957,3,Indianapolis 500,Indianapolis Motor Speedway,Indianapolis,USA,1957-05-30,,http://en.wikipedia.org/wiki/1957_Indianapolis_500
+1957,4,French Grand Prix,Rouen-Les-Essarts,Rouen,France,1957-07-07,,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
+1957,5,British Grand Prix,Aintree,Liverpool,UK,1957-07-20,,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
+1957,6,German Grand Prix,Nürburgring,Nürburg,Germany,1957-08-04,,http://en.wikipedia.org/wiki/1957_German_Grand_Prix
+1957,7,Pescara Grand Prix,Pescara Circuit,Pescara,Italy,1957-08-18,,http://en.wikipedia.org/wiki/1957_Pescara_Grand_Prix
+1957,8,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1957-09-08,,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
+1958,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1958-01-19,,http://en.wikipedia.org/wiki/1958_Argentine_Grand_Prix
+1958,2,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1958-05-18,,http://en.wikipedia.org/wiki/1958_Monaco_Grand_Prix
+1958,3,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1958-05-26,,http://en.wikipedia.org/wiki/1958_Dutch_Grand_Prix
+1958,4,Indianapolis 500,Indianapolis Motor Speedway,Indianapolis,USA,1958-05-30,,http://en.wikipedia.org/wiki/1958_Indianapolis_500
+1958,5,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1958-06-15,,http://en.wikipedia.org/wiki/1958_Belgian_Grand_Prix
+1958,6,French Grand Prix,Reims-Gueux,Reims,France,1958-07-06,,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
+1958,7,British Grand Prix,Silverstone Circuit,Silverstone,UK,1958-07-19,,http://en.wikipedia.org/wiki/1958_British_Grand_Prix
+1958,8,German Grand Prix,Nürburgring,Nürburg,Germany,1958-08-03,,http://en.wikipedia.org/wiki/1958_German_Grand_Prix
+1958,9,Portuguese Grand Prix,Circuito da Boavista,Oporto,Portugal,1958-08-24,,http://en.wikipedia.org/wiki/1958_Portuguese_Grand_Prix
+1958,10,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1958-09-07,,http://en.wikipedia.org/wiki/1958_Italian_Grand_Prix
+1958,11,Moroccan Grand Prix,Ain Diab,Casablanca,Morocco,1958-10-19,,http://en.wikipedia.org/wiki/1958_Moroccan_Grand_Prix
+1959,1,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1959-05-10,,http://en.wikipedia.org/wiki/1959_Monaco_Grand_Prix
+1959,2,Indianapolis 500,Indianapolis Motor Speedway,Indianapolis,USA,1959-05-30,,http://en.wikipedia.org/wiki/1959_Indianapolis_500
+1959,3,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1959-05-31,,http://en.wikipedia.org/wiki/1959_Dutch_Grand_Prix
+1959,4,French Grand Prix,Reims-Gueux,Reims,France,1959-07-05,,http://en.wikipedia.org/wiki/1959_French_Grand_Prix
+1959,5,British Grand Prix,Aintree,Liverpool,UK,1959-07-18,,http://en.wikipedia.org/wiki/1959_British_Grand_Prix
+1959,6,German Grand Prix,AVUS,Berlin,Germany,1959-08-02,,http://en.wikipedia.org/wiki/1959_German_Grand_Prix
+1959,7,Portuguese Grand Prix,Monsanto Park Circuit,Lisbon,Portugal,1959-08-23,,http://en.wikipedia.org/wiki/1959_Portuguese_Grand_Prix
+1959,8,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1959-09-13,,http://en.wikipedia.org/wiki/1959_Italian_Grand_Prix
+1959,9,United States Grand Prix,Sebring International Raceway,Florida,USA,1959-12-12,,http://en.wikipedia.org/wiki/1959_United_States_Grand_Prix
+1960,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1960-02-07,,http://en.wikipedia.org/wiki/1960_Argentine_Grand_Prix
+1960,2,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1960-05-29,,http://en.wikipedia.org/wiki/1960_Monaco_Grand_Prix
+1960,3,Indianapolis 500,Indianapolis Motor Speedway,Indianapolis,USA,1960-05-30,,http://en.wikipedia.org/wiki/1960_Indianapolis_500
+1960,4,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1960-06-06,,http://en.wikipedia.org/wiki/1960_Dutch_Grand_Prix
+1960,5,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1960-06-19,,http://en.wikipedia.org/wiki/1960_Belgian_Grand_Prix
+1960,6,French Grand Prix,Reims-Gueux,Reims,France,1960-07-03,,http://en.wikipedia.org/wiki/1960_French_Grand_Prix
+1960,7,British Grand Prix,Silverstone Circuit,Silverstone,UK,1960-07-16,,http://en.wikipedia.org/wiki/1960_British_Grand_Prix
+1960,8,Portuguese Grand Prix,Circuito da Boavista,Oporto,Portugal,1960-08-14,,http://en.wikipedia.org/wiki/1960_Portuguese_Grand_Prix
+1960,9,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1960-09-04,,http://en.wikipedia.org/wiki/1960_Italian_Grand_Prix
+1960,10,United States Grand Prix,Riverside International Raceway,California,USA,1960-11-20,,http://en.wikipedia.org/wiki/1960_United_States_Grand_Prix
+1961,1,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1961-05-14,,http://en.wikipedia.org/wiki/1961_Monaco_Grand_Prix
+1961,2,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1961-05-22,,http://en.wikipedia.org/wiki/1961_Dutch_Grand_Prix
+1961,3,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1961-06-18,,http://en.wikipedia.org/wiki/1961_Belgian_Grand_Prix
+1961,4,French Grand Prix,Reims-Gueux,Reims,France,1961-07-02,,http://en.wikipedia.org/wiki/1961_French_Grand_Prix
+1961,5,British Grand Prix,Aintree,Liverpool,UK,1961-07-15,,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
+1961,6,German Grand Prix,Nürburgring,Nürburg,Germany,1961-08-06,,http://en.wikipedia.org/wiki/1961_German_Grand_Prix
+1961,7,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1961-09-10,,http://en.wikipedia.org/wiki/1961_Italian_Grand_Prix
+1961,8,United States Grand Prix,Watkins Glen,New York State,USA,1961-10-08,,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
+1962,1,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1962-05-20,,http://en.wikipedia.org/wiki/1962_Dutch_Grand_Prix
+1962,2,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1962-06-03,,http://en.wikipedia.org/wiki/1962_Monaco_Grand_Prix
+1962,3,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1962-06-17,,http://en.wikipedia.org/wiki/1962_Belgian_Grand_Prix
+1962,4,French Grand Prix,Rouen-Les-Essarts,Rouen,France,1962-07-08,,http://en.wikipedia.org/wiki/1962_French_Grand_Prix
+1962,5,British Grand Prix,Aintree,Liverpool,UK,1962-07-21,,http://en.wikipedia.org/wiki/1962_British_Grand_Prix
+1962,6,German Grand Prix,Nürburgring,Nürburg,Germany,1962-08-05,,http://en.wikipedia.org/wiki/1962_German_Grand_Prix
+1962,7,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1962-09-16,,http://en.wikipedia.org/wiki/1962_Italian_Grand_Prix
+1962,8,United States Grand Prix,Watkins Glen,New York State,USA,1962-10-07,,http://en.wikipedia.org/wiki/1962_United_States_Grand_Prix
+1962,9,South African Grand Prix,Prince George Circuit,Eastern Cape Province,South Africa,1962-12-29,,http://en.wikipedia.org/wiki/1962_South_African_Grand_Prix
+1963,1,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1963-05-26,,http://en.wikipedia.org/wiki/1963_Monaco_Grand_Prix
+1963,2,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1963-06-09,,http://en.wikipedia.org/wiki/1963_Belgian_Grand_Prix
+1963,3,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1963-06-23,,http://en.wikipedia.org/wiki/1963_Dutch_Grand_Prix
+1963,4,French Grand Prix,Reims-Gueux,Reims,France,1963-06-30,,http://en.wikipedia.org/wiki/1963_French_Grand_Prix
+1963,5,British Grand Prix,Silverstone Circuit,Silverstone,UK,1963-07-20,,http://en.wikipedia.org/wiki/1963_British_Grand_Prix
+1963,6,German Grand Prix,Nürburgring,Nürburg,Germany,1963-08-04,,http://en.wikipedia.org/wiki/1963_German_Grand_Prix
+1963,7,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1963-09-08,,http://en.wikipedia.org/wiki/1963_Italian_Grand_Prix
+1963,8,United States Grand Prix,Watkins Glen,New York State,USA,1963-10-06,,http://en.wikipedia.org/wiki/1963_United_States_Grand_Prix
+1963,9,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Mexico City,Mexico,1963-10-27,,http://en.wikipedia.org/wiki/1963_Mexican_Grand_Prix
+1963,10,South African Grand Prix,Prince George Circuit,Eastern Cape Province,South Africa,1963-12-28,,http://en.wikipedia.org/wiki/1963_South_African_Grand_Prix
+1964,1,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1964-05-10,,http://en.wikipedia.org/wiki/1964_Monaco_Grand_Prix
+1964,2,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1964-05-24,,http://en.wikipedia.org/wiki/1964_Dutch_Grand_Prix
+1964,3,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1964-06-14,,http://en.wikipedia.org/wiki/1964_Belgian_Grand_Prix
+1964,4,French Grand Prix,Rouen-Les-Essarts,Rouen,France,1964-06-28,,http://en.wikipedia.org/wiki/1964_French_Grand_Prix
+1964,5,British Grand Prix,Brands Hatch,Kent,UK,1964-07-11,,http://en.wikipedia.org/wiki/1964_British_Grand_Prix
+1964,6,German Grand Prix,Nürburgring,Nürburg,Germany,1964-08-02,,http://en.wikipedia.org/wiki/1964_German_Grand_Prix
+1964,7,Austrian Grand Prix,Zeltweg,Styria,Austria,1964-08-23,,http://en.wikipedia.org/wiki/1964_Austrian_Grand_Prix
+1964,8,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1964-09-06,,http://en.wikipedia.org/wiki/1964_Italian_Grand_Prix
+1964,9,United States Grand Prix,Watkins Glen,New York State,USA,1964-10-04,,http://en.wikipedia.org/wiki/1964_United_States_Grand_Prix
+1964,10,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Mexico City,Mexico,1964-10-25,,http://en.wikipedia.org/wiki/1964_Mexican_Grand_Prix
+1965,1,South African Grand Prix,Prince George Circuit,Eastern Cape Province,South Africa,1965-01-01,,http://en.wikipedia.org/wiki/1965_South_African_Grand_Prix
+1965,2,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1965-05-30,,http://en.wikipedia.org/wiki/1965_Monaco_Grand_Prix
+1965,3,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1965-06-13,,http://en.wikipedia.org/wiki/1965_Belgian_Grand_Prix
+1965,4,French Grand Prix,Charade Circuit,Clermont-Ferrand,France,1965-06-27,,http://en.wikipedia.org/wiki/1965_French_Grand_Prix
+1965,5,British Grand Prix,Silverstone Circuit,Silverstone,UK,1965-07-10,,http://en.wikipedia.org/wiki/1965_British_Grand_Prix
+1965,6,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1965-07-18,,http://en.wikipedia.org/wiki/1965_Dutch_Grand_Prix
+1965,7,German Grand Prix,Nürburgring,Nürburg,Germany,1965-08-01,,http://en.wikipedia.org/wiki/1965_German_Grand_Prix
+1965,8,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1965-09-12,,http://en.wikipedia.org/wiki/1965_Italian_Grand_Prix
+1965,9,United States Grand Prix,Watkins Glen,New York State,USA,1965-10-03,,http://en.wikipedia.org/wiki/1965_United_States_Grand_Prix
+1965,10,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Mexico City,Mexico,1965-10-24,,http://en.wikipedia.org/wiki/1965_Mexican_Grand_Prix
+1966,1,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1966-05-22,,http://en.wikipedia.org/wiki/1966_Monaco_Grand_Prix
+1966,2,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1966-06-12,,http://en.wikipedia.org/wiki/1966_Belgian_Grand_Prix
+1966,3,French Grand Prix,Reims-Gueux,Reims,France,1966-07-03,,http://en.wikipedia.org/wiki/1966_French_Grand_Prix
+1966,4,British Grand Prix,Brands Hatch,Kent,UK,1966-07-16,,http://en.wikipedia.org/wiki/1966_British_Grand_Prix
+1966,5,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1966-07-24,,http://en.wikipedia.org/wiki/1966_Dutch_Grand_Prix
+1966,6,German Grand Prix,Nürburgring,Nürburg,Germany,1966-08-07,,http://en.wikipedia.org/wiki/1966_German_Grand_Prix
+1966,7,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1966-09-04,,http://en.wikipedia.org/wiki/1966_Italian_Grand_Prix
+1966,8,United States Grand Prix,Watkins Glen,New York State,USA,1966-10-02,,http://en.wikipedia.org/wiki/1966_United_States_Grand_Prix
+1966,9,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Mexico City,Mexico,1966-10-23,,http://en.wikipedia.org/wiki/1966_Mexican_Grand_Prix
+1967,1,South African Grand Prix,Kyalami,Midrand,South Africa,1967-01-02,,http://en.wikipedia.org/wiki/1967_South_African_Grand_Prix
+1967,2,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1967-05-07,,http://en.wikipedia.org/wiki/1967_Monaco_Grand_Prix
+1967,3,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1967-06-04,,http://en.wikipedia.org/wiki/1967_Dutch_Grand_Prix
+1967,4,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1967-06-18,,http://en.wikipedia.org/wiki/1967_Belgian_Grand_Prix
+1967,5,French Grand Prix,Le Mans,Le Mans,France,1967-07-02,,http://en.wikipedia.org/wiki/1967_French_Grand_Prix
+1967,6,British Grand Prix,Silverstone Circuit,Silverstone,UK,1967-07-15,,http://en.wikipedia.org/wiki/1967_British_Grand_Prix
+1967,7,German Grand Prix,Nürburgring,Nürburg,Germany,1967-08-06,,http://en.wikipedia.org/wiki/1967_German_Grand_Prix
+1967,8,Canadian Grand Prix,Mosport International Raceway,Ontario,Canada,1967-08-27,,http://en.wikipedia.org/wiki/1967_Canadian_Grand_Prix
+1967,9,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1967-09-10,,http://en.wikipedia.org/wiki/1967_Italian_Grand_Prix
+1967,10,United States Grand Prix,Watkins Glen,New York State,USA,1967-10-01,,http://en.wikipedia.org/wiki/1967_United_States_Grand_Prix
+1967,11,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Mexico City,Mexico,1967-10-22,,http://en.wikipedia.org/wiki/1967_Mexican_Grand_Prix
+1968,1,South African Grand Prix,Kyalami,Midrand,South Africa,1968-01-01,,http://en.wikipedia.org/wiki/1968_South_African_Grand_Prix
+1968,2,Spanish Grand Prix,Jarama,Madrid,Spain,1968-05-12,,http://en.wikipedia.org/wiki/1968_Spanish_Grand_Prix
+1968,3,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1968-05-26,,http://en.wikipedia.org/wiki/1968_Monaco_Grand_Prix
+1968,4,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1968-06-09,,http://en.wikipedia.org/wiki/1968_Belgian_Grand_Prix
+1968,5,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1968-06-23,,http://en.wikipedia.org/wiki/1968_Dutch_Grand_Prix
+1968,6,French Grand Prix,Rouen-Les-Essarts,Rouen,France,1968-07-07,,http://en.wikipedia.org/wiki/1968_French_Grand_Prix
+1968,7,British Grand Prix,Brands Hatch,Kent,UK,1968-07-20,,http://en.wikipedia.org/wiki/1968_British_Grand_Prix
+1968,8,German Grand Prix,Nürburgring,Nürburg,Germany,1968-08-04,,http://en.wikipedia.org/wiki/1968_German_Grand_Prix
+1968,9,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1968-09-08,,http://en.wikipedia.org/wiki/1968_Italian_Grand_Prix
+1968,10,Canadian Grand Prix,Circuit Mont-Tremblant,Quebec,Canada,1968-09-22,,http://en.wikipedia.org/wiki/1968_Canadian_Grand_Prix
+1968,11,United States Grand Prix,Watkins Glen,New York State,USA,1968-10-06,,http://en.wikipedia.org/wiki/1968_United_States_Grand_Prix
+1968,12,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Mexico City,Mexico,1968-11-03,,http://en.wikipedia.org/wiki/1968_Mexican_Grand_Prix
+1969,1,South African Grand Prix,Kyalami,Midrand,South Africa,1969-03-01,,http://en.wikipedia.org/wiki/1969_South_African_Grand_Prix
+1969,2,Spanish Grand Prix,Montjuïc,Barcelona,Spain,1969-05-04,,http://en.wikipedia.org/wiki/1969_Spanish_Grand_Prix
+1969,3,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1969-05-18,,http://en.wikipedia.org/wiki/1969_Monaco_Grand_Prix
+1969,4,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1969-06-21,,http://en.wikipedia.org/wiki/1969_Dutch_Grand_Prix
+1969,5,French Grand Prix,Charade Circuit,Clermont-Ferrand,France,1969-07-06,,http://en.wikipedia.org/wiki/1969_French_Grand_Prix
+1969,6,British Grand Prix,Silverstone Circuit,Silverstone,UK,1969-07-19,,http://en.wikipedia.org/wiki/1969_British_Grand_Prix
+1969,7,German Grand Prix,Nürburgring,Nürburg,Germany,1969-08-03,,http://en.wikipedia.org/wiki/1969_German_Grand_Prix
+1969,8,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1969-09-07,,http://en.wikipedia.org/wiki/1969_Italian_Grand_Prix
+1969,9,Canadian Grand Prix,Mosport International Raceway,Ontario,Canada,1969-09-20,,http://en.wikipedia.org/wiki/1969_Canadian_Grand_Prix
+1969,10,United States Grand Prix,Watkins Glen,New York State,USA,1969-10-05,,http://en.wikipedia.org/wiki/1969_United_States_Grand_Prix
+1969,11,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Mexico City,Mexico,1969-10-19,,http://en.wikipedia.org/wiki/1969_Mexican_Grand_Prix
+1970,1,South African Grand Prix,Kyalami,Midrand,South Africa,1970-03-07,,http://en.wikipedia.org/wiki/1970_South_African_Grand_Prix
+1970,2,Spanish Grand Prix,Jarama,Madrid,Spain,1970-04-19,,http://en.wikipedia.org/wiki/1970_Spanish_Grand_Prix
+1970,3,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1970-05-10,,http://en.wikipedia.org/wiki/1970_Monaco_Grand_Prix
+1970,4,Belgian Grand Prix,Circuit de Spa-Francorchamps,Spa,Belgium,1970-06-07,,http://en.wikipedia.org/wiki/1970_Belgian_Grand_Prix
+1970,5,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1970-06-21,,http://en.wikipedia.org/wiki/1970_Dutch_Grand_Prix
+1970,6,French Grand Prix,Charade Circuit,Clermont-Ferrand,France,1970-07-05,,http://en.wikipedia.org/wiki/1970_French_Grand_Prix
+1970,7,British Grand Prix,Brands Hatch,Kent,UK,1970-07-18,,http://en.wikipedia.org/wiki/1970_British_Grand_Prix
+1970,8,German Grand Prix,Hockenheimring,Hockenheim,Germany,1970-08-02,,http://en.wikipedia.org/wiki/1970_German_Grand_Prix
+1970,9,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,1970-08-16,,http://en.wikipedia.org/wiki/1970_Austrian_Grand_Prix
+1970,10,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1970-09-06,,http://en.wikipedia.org/wiki/1970_Italian_Grand_Prix
+1970,11,Canadian Grand Prix,Circuit Mont-Tremblant,Quebec,Canada,1970-09-20,,http://en.wikipedia.org/wiki/1970_Canadian_Grand_Prix
+1970,12,United States Grand Prix,Watkins Glen,New York State,USA,1970-10-04,,http://en.wikipedia.org/wiki/1970_United_States_Grand_Prix
+1970,13,Mexican Grand Prix,Autódromo Hermanos Rodríguez,Mexico City,Mexico,1970-10-25,,http://en.wikipedia.org/wiki/1970_Mexican_Grand_Prix
+1971,1,South African Grand Prix,Kyalami,Midrand,South Africa,1971-03-06,,http://en.wikipedia.org/wiki/1971_South_African_Grand_Prix
+1971,2,Spanish Grand Prix,Montjuïc,Barcelona,Spain,1971-04-18,,http://en.wikipedia.org/wiki/1971_Spanish_Grand_Prix
+1971,3,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1971-05-23,,http://en.wikipedia.org/wiki/1971_Monaco_Grand_Prix
+1971,4,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1971-06-20,,http://en.wikipedia.org/wiki/1971_Dutch_Grand_Prix
+1971,5,French Grand Prix,Circuit Paul Ricard,Le Castellet,France,1971-07-04,,http://en.wikipedia.org/wiki/1971_French_Grand_Prix
+1971,6,British Grand Prix,Silverstone Circuit,Silverstone,UK,1971-07-17,,http://en.wikipedia.org/wiki/1971_British_Grand_Prix
+1971,7,German Grand Prix,Nürburgring,Nürburg,Germany,1971-08-01,,http://en.wikipedia.org/wiki/1971_German_Grand_Prix
+1971,8,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,1971-08-15,,http://en.wikipedia.org/wiki/1971_Austrian_Grand_Prix
+1971,9,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1971-09-05,,http://en.wikipedia.org/wiki/1971_Italian_Grand_Prix
+1971,10,Canadian Grand Prix,Mosport International Raceway,Ontario,Canada,1971-09-19,,http://en.wikipedia.org/wiki/1971_Canadian_Grand_Prix
+1971,11,United States Grand Prix,Watkins Glen,New York State,USA,1971-10-03,,http://en.wikipedia.org/wiki/1971_United_States_Grand_Prix
+1972,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1972-01-23,,http://en.wikipedia.org/wiki/1972_Argentine_Grand_Prix
+1972,2,South African Grand Prix,Kyalami,Midrand,South Africa,1972-03-04,,http://en.wikipedia.org/wiki/1972_South_African_Grand_Prix
+1972,3,Spanish Grand Prix,Jarama,Madrid,Spain,1972-05-01,,http://en.wikipedia.org/wiki/1972_Spanish_Grand_Prix
+1972,4,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1972-05-14,,http://en.wikipedia.org/wiki/1972_Monaco_Grand_Prix
+1972,5,Belgian Grand Prix,Nivelles-Baulers,Brussels,Belgium,1972-06-04,,http://en.wikipedia.org/wiki/1972_Belgian_Grand_Prix
+1972,6,French Grand Prix,Charade Circuit,Clermont-Ferrand,France,1972-07-02,,http://en.wikipedia.org/wiki/1972_French_Grand_Prix
+1972,7,British Grand Prix,Brands Hatch,Kent,UK,1972-07-15,,http://en.wikipedia.org/wiki/1972_British_Grand_Prix
+1972,8,German Grand Prix,Nürburgring,Nürburg,Germany,1972-07-30,,http://en.wikipedia.org/wiki/1972_German_Grand_Prix
+1972,9,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,1972-08-13,,http://en.wikipedia.org/wiki/1972_Austrian_Grand_Prix
+1972,10,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1972-09-10,,http://en.wikipedia.org/wiki/1972_Italian_Grand_Prix
+1972,11,Canadian Grand Prix,Mosport International Raceway,Ontario,Canada,1972-09-24,,http://en.wikipedia.org/wiki/1972_Canadian_Grand_Prix
+1972,12,United States Grand Prix,Watkins Glen,New York State,USA,1972-10-08,,http://en.wikipedia.org/wiki/1972_United_States_Grand_Prix
+1973,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1973-01-28,,http://en.wikipedia.org/wiki/1973_Argentine_Grand_Prix
+1973,2,Brazilian Grand Prix,Autódromo José Carlos Pace,São Paulo,Brazil,1973-02-11,,http://en.wikipedia.org/wiki/1973_Brazilian_Grand_Prix
+1973,3,South African Grand Prix,Kyalami,Midrand,South Africa,1973-03-03,,http://en.wikipedia.org/wiki/1973_South_African_Grand_Prix
+1973,4,Spanish Grand Prix,Montjuïc,Barcelona,Spain,1973-04-29,,http://en.wikipedia.org/wiki/1973_Spanish_Grand_Prix
+1973,5,Belgian Grand Prix,Zolder,Heusden-Zolder,Belgium,1973-05-20,,http://en.wikipedia.org/wiki/1973_Belgian_Grand_Prix
+1973,6,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1973-06-03,,http://en.wikipedia.org/wiki/1973_Monaco_Grand_Prix
+1973,7,Swedish Grand Prix,Scandinavian Raceway,Anderstorp,Sweden,1973-06-17,,http://en.wikipedia.org/wiki/1973_Swedish_Grand_Prix
+1973,8,French Grand Prix,Circuit Paul Ricard,Le Castellet,France,1973-07-01,,http://en.wikipedia.org/wiki/1973_French_Grand_Prix
+1973,9,British Grand Prix,Silverstone Circuit,Silverstone,UK,1973-07-14,,http://en.wikipedia.org/wiki/1973_British_Grand_Prix
+1973,10,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1973-07-29,,http://en.wikipedia.org/wiki/1973_Dutch_Grand_Prix
+1973,11,German Grand Prix,Nürburgring,Nürburg,Germany,1973-08-05,,http://en.wikipedia.org/wiki/1973_German_Grand_Prix
+1973,12,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,1973-08-19,,http://en.wikipedia.org/wiki/1973_Austrian_Grand_Prix
+1973,13,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1973-09-09,,http://en.wikipedia.org/wiki/1973_Italian_Grand_Prix
+1973,14,Canadian Grand Prix,Mosport International Raceway,Ontario,Canada,1973-09-23,,http://en.wikipedia.org/wiki/1973_Canadian_Grand_Prix
+1973,15,United States Grand Prix,Watkins Glen,New York State,USA,1973-10-07,,http://en.wikipedia.org/wiki/1973_United_States_Grand_Prix
+1974,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1974-01-13,,http://en.wikipedia.org/wiki/1974_Argentine_Grand_Prix
+1974,2,Brazilian Grand Prix,Autódromo José Carlos Pace,São Paulo,Brazil,1974-01-27,,http://en.wikipedia.org/wiki/1974_Brazilian_Grand_Prix
+1974,3,South African Grand Prix,Kyalami,Midrand,South Africa,1974-03-30,,http://en.wikipedia.org/wiki/1974_South_African_Grand_Prix
+1974,4,Spanish Grand Prix,Jarama,Madrid,Spain,1974-04-28,,http://en.wikipedia.org/wiki/1974_Spanish_Grand_Prix
+1974,5,Belgian Grand Prix,Nivelles-Baulers,Brussels,Belgium,1974-05-12,,http://en.wikipedia.org/wiki/1974_Belgian_Grand_Prix
+1974,6,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1974-05-26,,http://en.wikipedia.org/wiki/1974_Monaco_Grand_Prix
+1974,7,Swedish Grand Prix,Scandinavian Raceway,Anderstorp,Sweden,1974-06-09,,http://en.wikipedia.org/wiki/1974_Swedish_Grand_Prix
+1974,8,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1974-06-23,,http://en.wikipedia.org/wiki/1974_Dutch_Grand_Prix
+1974,9,French Grand Prix,Dijon-Prenois,Dijon,France,1974-07-07,,http://en.wikipedia.org/wiki/1974_French_Grand_Prix
+1974,10,British Grand Prix,Brands Hatch,Kent,UK,1974-07-20,,http://en.wikipedia.org/wiki/1974_British_Grand_Prix
+1974,11,German Grand Prix,Nürburgring,Nürburg,Germany,1974-08-04,,http://en.wikipedia.org/wiki/1974_German_Grand_Prix
+1974,12,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,1974-08-18,,http://en.wikipedia.org/wiki/1974_Austrian_Grand_Prix
+1974,13,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1974-09-08,,http://en.wikipedia.org/wiki/1974_Italian_Grand_Prix
+1974,14,Canadian Grand Prix,Mosport International Raceway,Ontario,Canada,1974-09-22,,http://en.wikipedia.org/wiki/1974_Canadian_Grand_Prix
+1974,15,United States Grand Prix,Watkins Glen,New York State,USA,1974-10-06,,http://en.wikipedia.org/wiki/1974_United_States_Grand_Prix
+1975,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1975-01-12,,http://en.wikipedia.org/wiki/1975_Argentine_Grand_Prix
+1975,2,Brazilian Grand Prix,Autódromo José Carlos Pace,São Paulo,Brazil,1975-01-26,,http://en.wikipedia.org/wiki/1975_Brazilian_Grand_Prix
+1975,3,South African Grand Prix,Kyalami,Midrand,South Africa,1975-03-01,,http://en.wikipedia.org/wiki/1975_South_African_Grand_Prix
+1975,4,Spanish Grand Prix,Montjuïc,Barcelona,Spain,1975-04-27,,http://en.wikipedia.org/wiki/1975_Spanish_Grand_Prix
+1975,5,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1975-05-11,,http://en.wikipedia.org/wiki/1975_Monaco_Grand_Prix
+1975,6,Belgian Grand Prix,Zolder,Heusden-Zolder,Belgium,1975-05-25,,http://en.wikipedia.org/wiki/1975_Belgian_Grand_Prix
+1975,7,Swedish Grand Prix,Scandinavian Raceway,Anderstorp,Sweden,1975-06-08,,http://en.wikipedia.org/wiki/1975_Swedish_Grand_Prix
+1975,8,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1975-06-22,,http://en.wikipedia.org/wiki/1975_Dutch_Grand_Prix
+1975,9,French Grand Prix,Circuit Paul Ricard,Le Castellet,France,1975-07-06,,http://en.wikipedia.org/wiki/1975_French_Grand_Prix
+1975,10,British Grand Prix,Silverstone Circuit,Silverstone,UK,1975-07-19,,http://en.wikipedia.org/wiki/1975_British_Grand_Prix
+1975,11,German Grand Prix,Nürburgring,Nürburg,Germany,1975-08-03,,http://en.wikipedia.org/wiki/1975_German_Grand_Prix
+1975,12,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,1975-08-17,,http://en.wikipedia.org/wiki/1975_Austrian_Grand_Prix
+1975,13,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1975-09-07,,http://en.wikipedia.org/wiki/1975_Italian_Grand_Prix
+1975,14,United States Grand Prix,Watkins Glen,New York State,USA,1975-10-05,,http://en.wikipedia.org/wiki/1975_United_States_Grand_Prix
+1976,1,Brazilian Grand Prix,Autódromo José Carlos Pace,São Paulo,Brazil,1976-01-25,,http://en.wikipedia.org/wiki/1976_Brazilian_Grand_Prix
+1976,2,South African Grand Prix,Kyalami,Midrand,South Africa,1976-03-06,,http://en.wikipedia.org/wiki/1976_South_African_Grand_Prix
+1976,3,United States Grand Prix West,Long Beach,California,USA,1976-03-28,,http://en.wikipedia.org/wiki/1976_United_States_Grand_Prix_West
+1976,4,Spanish Grand Prix,Jarama,Madrid,Spain,1976-05-02,,http://en.wikipedia.org/wiki/1976_Spanish_Grand_Prix
+1976,5,Belgian Grand Prix,Zolder,Heusden-Zolder,Belgium,1976-05-16,,http://en.wikipedia.org/wiki/1976_Belgian_Grand_Prix
+1976,6,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1976-05-30,,http://en.wikipedia.org/wiki/1976_Monaco_Grand_Prix
+1976,7,Swedish Grand Prix,Scandinavian Raceway,Anderstorp,Sweden,1976-06-13,,http://en.wikipedia.org/wiki/1976_Swedish_Grand_Prix
+1976,8,French Grand Prix,Circuit Paul Ricard,Le Castellet,France,1976-07-04,,http://en.wikipedia.org/wiki/1976_French_Grand_Prix
+1976,9,British Grand Prix,Brands Hatch,Kent,UK,1976-07-18,,http://en.wikipedia.org/wiki/1976_British_Grand_Prix
+1976,10,German Grand Prix,Nürburgring,Nürburg,Germany,1976-08-01,,http://en.wikipedia.org/wiki/1976_German_Grand_Prix
+1976,11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,1976-08-15,,http://en.wikipedia.org/wiki/1976_Austrian_Grand_Prix
+1976,12,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1976-08-29,,http://en.wikipedia.org/wiki/1976_Dutch_Grand_Prix
+1976,13,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1976-09-12,,http://en.wikipedia.org/wiki/1976_Italian_Grand_Prix
+1976,14,Canadian Grand Prix,Mosport International Raceway,Ontario,Canada,1976-10-03,,http://en.wikipedia.org/wiki/1976_Canadian_Grand_Prix
+1976,15,United States Grand Prix,Watkins Glen,New York State,USA,1976-10-10,,http://en.wikipedia.org/wiki/1976_United_States_Grand_Prix
+1976,16,Japanese Grand Prix,Fuji Speedway,Oyama,Japan,1976-10-24,,http://en.wikipedia.org/wiki/1976_Japanese_Grand_Prix
+1977,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1977-01-09,,http://en.wikipedia.org/wiki/1977_Argentine_Grand_Prix
+1977,2,Brazilian Grand Prix,Autódromo José Carlos Pace,São Paulo,Brazil,1977-01-23,,http://en.wikipedia.org/wiki/1977_Brazilian_Grand_Prix
+1977,3,South African Grand Prix,Kyalami,Midrand,South Africa,1977-03-05,,http://en.wikipedia.org/wiki/1977_South_African_Grand_Prix
+1977,4,United States Grand Prix West,Long Beach,California,USA,1977-04-03,,http://en.wikipedia.org/wiki/1977_United_States_Grand_Prix_West
+1977,5,Spanish Grand Prix,Jarama,Madrid,Spain,1977-05-08,,http://en.wikipedia.org/wiki/1977_Spanish_Grand_Prix
+1977,6,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1977-05-22,,http://en.wikipedia.org/wiki/1977_Monaco_Grand_Prix
+1977,7,Belgian Grand Prix,Zolder,Heusden-Zolder,Belgium,1977-06-05,,http://en.wikipedia.org/wiki/1977_Belgian_Grand_Prix
+1977,8,Swedish Grand Prix,Scandinavian Raceway,Anderstorp,Sweden,1977-06-19,,http://en.wikipedia.org/wiki/1977_Swedish_Grand_Prix
+1977,9,French Grand Prix,Dijon-Prenois,Dijon,France,1977-07-03,,http://en.wikipedia.org/wiki/1977_French_Grand_Prix
+1977,10,British Grand Prix,Silverstone Circuit,Silverstone,UK,1977-07-16,,http://en.wikipedia.org/wiki/1977_British_Grand_Prix
+1977,11,German Grand Prix,Hockenheimring,Hockenheim,Germany,1977-07-31,,http://en.wikipedia.org/wiki/1977_German_Grand_Prix
+1977,12,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,1977-08-14,,http://en.wikipedia.org/wiki/1977_Austrian_Grand_Prix
+1977,13,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1977-08-28,,http://en.wikipedia.org/wiki/1977_Dutch_Grand_Prix
+1977,14,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1977-09-11,,http://en.wikipedia.org/wiki/1977_Italian_Grand_Prix
+1977,15,United States Grand Prix,Watkins Glen,New York State,USA,1977-10-02,,http://en.wikipedia.org/wiki/1977_United_States_Grand_Prix
+1977,16,Canadian Grand Prix,Mosport International Raceway,Ontario,Canada,1977-10-09,,http://en.wikipedia.org/wiki/1977_Canadian_Grand_Prix
+1977,17,Japanese Grand Prix,Fuji Speedway,Oyama,Japan,1977-10-23,,http://en.wikipedia.org/wiki/1977_Japanese_Grand_Prix
+1978,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1978-01-15,,http://en.wikipedia.org/wiki/1978_Argentine_Grand_Prix
+1978,2,Brazilian Grand Prix,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,1978-01-29,,http://en.wikipedia.org/wiki/1978_Brazilian_Grand_Prix
+1978,3,South African Grand Prix,Kyalami,Midrand,South Africa,1978-03-04,,http://en.wikipedia.org/wiki/1978_South_African_Grand_Prix
+1978,4,United States Grand Prix West,Long Beach,California,USA,1978-04-02,,http://en.wikipedia.org/wiki/1978_United_States_Grand_Prix_West
+1978,5,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1978-05-07,,http://en.wikipedia.org/wiki/1978_Monaco_Grand_Prix
+1978,6,Belgian Grand Prix,Zolder,Heusden-Zolder,Belgium,1978-05-21,,http://en.wikipedia.org/wiki/1978_Belgian_Grand_Prix
+1978,7,Spanish Grand Prix,Jarama,Madrid,Spain,1978-06-04,,http://en.wikipedia.org/wiki/1978_Spanish_Grand_Prix
+1978,8,Swedish Grand Prix,Scandinavian Raceway,Anderstorp,Sweden,1978-06-17,,http://en.wikipedia.org/wiki/1978_Swedish_Grand_Prix
+1978,9,French Grand Prix,Circuit Paul Ricard,Le Castellet,France,1978-07-02,,http://en.wikipedia.org/wiki/1978_French_Grand_Prix
+1978,10,British Grand Prix,Brands Hatch,Kent,UK,1978-07-16,,http://en.wikipedia.org/wiki/1978_British_Grand_Prix
+1978,11,German Grand Prix,Hockenheimring,Hockenheim,Germany,1978-07-30,,http://en.wikipedia.org/wiki/1978_German_Grand_Prix
+1978,12,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,1978-08-13,,http://en.wikipedia.org/wiki/1978_Austrian_Grand_Prix
+1978,13,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1978-08-27,,http://en.wikipedia.org/wiki/1978_Dutch_Grand_Prix
+1978,14,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1978-09-10,,http://en.wikipedia.org/wiki/1978_Italian_Grand_Prix
+1978,15,United States Grand Prix,Watkins Glen,New York State,USA,1978-10-01,,http://en.wikipedia.org/wiki/1978_United_States_Grand_Prix
+1978,16,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,1978-10-08,,http://en.wikipedia.org/wiki/1978_Canadian_Grand_Prix
+1979,1,Argentine Grand Prix,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,1979-01-21,,http://en.wikipedia.org/wiki/1979_Argentine_Grand_Prix
+1979,2,Brazilian Grand Prix,Autódromo José Carlos Pace,São Paulo,Brazil,1979-02-04,,http://en.wikipedia.org/wiki/1979_Brazilian_Grand_Prix
+1979,3,South African Grand Prix,Kyalami,Midrand,South Africa,1979-03-03,,http://en.wikipedia.org/wiki/1979_South_African_Grand_Prix
+1979,4,United States Grand Prix West,Long Beach,California,USA,1979-04-08,,http://en.wikipedia.org/wiki/1979_United_States_Grand_Prix_West
+1979,5,Spanish Grand Prix,Jarama,Madrid,Spain,1979-04-29,,http://en.wikipedia.org/wiki/1979_Spanish_Grand_Prix
+1979,6,Belgian Grand Prix,Zolder,Heusden-Zolder,Belgium,1979-05-13,,http://en.wikipedia.org/wiki/1979_Belgian_Grand_Prix
+1979,7,Monaco Grand Prix,Circuit de Monaco,Monte-Carlo,Monaco,1979-05-27,,http://en.wikipedia.org/wiki/1979_Monaco_Grand_Prix
+1979,8,French Grand Prix,Dijon-Prenois,Dijon,France,1979-07-01,,http://en.wikipedia.org/wiki/1979_French_Grand_Prix
+1979,9,British Grand Prix,Silverstone Circuit,Silverstone,UK,1979-07-14,,http://en.wikipedia.org/wiki/1979_British_Grand_Prix
+1979,10,German Grand Prix,Hockenheimring,Hockenheim,Germany,1979-07-29,,http://en.wikipedia.org/wiki/1979_German_Grand_Prix
+1979,11,Austrian Grand Prix,Red Bull Ring,Spielberg,Austria,1979-08-12,,http://en.wikipedia.org/wiki/1979_Austrian_Grand_Prix
+1979,12,Dutch Grand Prix,Circuit Park Zandvoort,Zandvoort,Netherlands,1979-08-26,,http://en.wikipedia.org/wiki/1979_Dutch_Grand_Prix
+1979,13,Italian Grand Prix,Autodromo Nazionale di Monza,Monza,Italy,1979-09-09,,http://en.wikipedia.org/wiki/1979_Italian_Grand_Prix
+1979,14,Canadian Grand Prix,Circuit Gilles Villeneuve,Montreal,Canada,1979-09-30,,http://en.wikipedia.org/wiki/1979_Canadian_Grand_Prix
+1979,15,United States Grand Prix,Watkins Glen,New York State,USA,1979-10-07,,http://en.wikipedia.org/wiki/1979_United_States_Grand_Prix

@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Project F1REBALL | Database Explorer</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg bg-white border-bottom sticky-top">
+      <div class="container">
+        <a class="navbar-brand fw-semibold" href="index.html">Project F1REBALL</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="mainNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item"><a class="nav-link active" href="index.html">Database</a></li>
+            <li class="nav-item"><a class="nav-link" href="data-story.html">Data Story</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <header class="page-header border-bottom">
+      <div class="container py-5">
+        <div class="row align-items-center g-4">
+          <div class="col-lg-7">
+            <p class="eyebrow mb-2">Formula 1 data management showcase</p>
+            <h1 class="display-5 fw-semibold mb-3">A normalized racing database built for reliable querying, validation, and reporting.</h1>
+            <p class="lead mb-0">Project F1REBALL converts raw Formula 1 schedule, session, telemetry, pit stop, weather, race control, and driver data into a structured relational model. This page highlights careful data collection design, integrity checks, query writing, and report review.</p>
+            <div class="hero-actions d-flex flex-column flex-sm-row gap-2 mt-4">
+              <a class="btn btn-primary" href="#query-workbench">Explore Data</a>
+              <a class="btn btn-outline-primary" href="data-story.html">Read Data Story</a>
+            </div>
+          </div>
+          <div class="col-lg-5">
+            <div class="summary-panel">
+              <div class="row g-3">
+                <div class="col-6">
+                  <div class="metric">
+                    <span class="metric-value">12</span>
+                    <span class="metric-label">normalized tables</span>
+                  </div>
+                </div>
+                <div class="col-6">
+                  <div class="metric">
+                    <span class="metric-value">97k+</span>
+                    <span class="metric-label">records managed</span>
+                  </div>
+                </div>
+                <div class="col-6">
+                  <div class="metric">
+                    <span class="metric-value">3NF</span>
+                    <span class="metric-label">normalization target</span>
+                  </div>
+                </div>
+                <div class="col-6">
+                  <div class="metric">
+                    <span class="metric-value">SQL</span>
+                    <span class="metric-label">joins and QC checks</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="section">
+        <div class="container">
+          <div class="row g-4">
+            <div class="col-lg-5">
+              <h2 class="h3 fw-semibold">Database Model</h2>
+              <p>The model separates repeated reference values from event-level facts. Countries and circuits are lookup tables. Meetings describe race weekends. Sessions represent practice, qualifying, and race events. Fact tables such as car_data, weather, pit, stints, and race_control reference session and meeting keys.</p>
+              <div class="schema-list">
+                <span>drivers</span>
+                <span>meetings</span>
+                <span>sessions</span>
+                <span>car_data</span>
+                <span>weather</span>
+                <span>pit</span>
+                <span>stints</span>
+                <span>race_control</span>
+                <span>seasons</span>
+                <span>f1_race_schedules</span>
+                <span>country</span>
+                <span>circuit</span>
+              </div>
+            </div>
+            <div class="col-lg-7">
+              <figure class="diagram-frame mb-0">
+                <img src="assets/project-f1reball-er.png" alt="Project F1REBALL entity relationship diagram" class="img-fluid">
+                <figcaption>Phase 1 ER model showing core entities and relationships.</figcaption>
+              </figure>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="query-workbench" class="section bg-light border-top border-bottom">
+        <div class="container">
+          <div class="d-flex flex-column flex-md-row justify-content-between gap-3 mb-4">
+            <div>
+              <h2 class="h3 fw-semibold mb-2">Query Workbench</h2>
+              <p class="mb-0">Use the templates or write a custom query. The normalized data loads into PGLite and runs as real PostgreSQL queries in the browser.</p>
+            </div>
+            <div id="dbStatus" class="status-pill align-self-start">Loading PGLite...</div>
+          </div>
+
+          <div class="row g-4">
+            <div class="col-lg-4">
+              <div class="control-panel">
+                <label for="templateSelect" class="form-label fw-semibold">Query template</label>
+                <select id="templateSelect" class="form-select mb-3">
+                  <option value="driverPerformance">Driver performance by session</option>
+                  <option value="teamComparison">Team comparison by meeting</option>
+                  <option value="weatherReview">Weather condition review</option>
+                  <option value="tyreStrategy">Tyre strategy analysis</option>
+                  <option value="pitEfficiency">Pit stop efficiency</option>
+                  <option value="dataQuality">Data quality checks</option>
+                </select>
+
+                <div class="mb-3">
+                  <label for="meetingKey" class="form-label">Race weekend</label>
+                  <select id="meetingKey" class="form-select">
+                    <option value="1229">2024 Bahrain Grand Prix - Sakhir</option>
+                    <option value="1211">2023 Spanish Grand Prix - Barcelona</option>
+                    <option value="1140">2023 Pre-Season Testing - Sakhir</option>
+                    <option value="1243">2024 Dutch Grand Prix - Zandvoort</option>
+                    <option value="1246">2024 Singapore Grand Prix - Marina Bay</option>
+                  </select>
+                  <div id="meetingKeyHelp" class="form-text"></div>
+                </div>
+
+                <div class="mb-3">
+                  <label for="sessionKey" class="form-label">Session</label>
+                  <select id="sessionKey" class="form-select"></select>
+                  <div id="sessionKeyHelp" class="form-text"></div>
+                </div>
+
+                <button id="loadTemplate" class="btn btn-primary w-100 mb-2" type="button">Load Template</button>
+                <button id="runQuery" class="btn btn-outline-primary w-100" type="button">Run Query</button>
+              </div>
+            </div>
+
+            <div class="col-lg-8">
+              <label for="sqlEditor" class="form-label fw-semibold">SQL window</label>
+              <textarea id="sqlEditor" class="form-control sql-editor" spellcheck="false"></textarea>
+              <div class="small text-secondary mt-2">This editor runs real SQL against tables such as <code>drivers</code>, <code>sessions</code>, <code>meetings</code>, <code>car_data</code>, <code>weather</code>, <code>pit</code>, <code>stints</code>, and <code>race_control</code>.</div>
+            </div>
+          </div>
+
+          <div class="results-panel mt-4">
+            <div class="d-flex flex-column flex-md-row justify-content-between gap-2 mb-3">
+              <div>
+                <h3 class="h5 fw-semibold mb-1">Result Output</h3>
+                <p id="resultSummary" class="mb-0 text-secondary">Run a query to view results.</p>
+              </div>
+              <span id="rowCount" class="row-count">0 rows</span>
+            </div>
+            <div id="resultTable" class="table-responsive"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <div class="row g-4">
+            <div class="col-lg-4">
+              <h2 class="h3 fw-semibold">Data Quality Overview</h2>
+              <p>These checks translate racing data into the language of study data management: completeness, allowed values, referential integrity, timing consistency, and exception tracking.</p>
+            </div>
+            <div class="col-lg-8">
+              <div class="row g-3">
+                <div class="col-md-6">
+                  <div class="qc-item">
+                    <h3 class="h6 fw-semibold">Referential integrity</h3>
+                    <p>Session and meeting keys connect fact tables back to the event calendar.</p>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="qc-item">
+                    <h3 class="h6 fw-semibold">Allowed value checks</h3>
+                    <p>Session type, tyre compound, race flag, DRS state, and rainfall values can be validated against expected domains.</p>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="qc-item">
+                    <h3 class="h6 fw-semibold">Outlier review</h3>
+                    <p>Pit durations, telemetry speeds, RPM values, and track temperatures are reviewed for impossible or unusual values.</p>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="qc-item">
+                    <h3 class="h6 fw-semibold">Report readiness</h3>
+                    <p>Query templates produce reusable summaries for driver performance, team comparison, weather, strategy, and operations review.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="border-top py-4">
+      <div class="container d-flex flex-column flex-md-row justify-content-between gap-2 small text-secondary">
+        <span>Project F1REBALL database systems portfolio</span>
+        <a href="data-story.html">Read the data story</a>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script type="module" src="script.js"></script>
+  </body>
+</html>
